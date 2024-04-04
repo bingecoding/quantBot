@@ -14,3 +14,7 @@ Fully automated trading bot for binance.
 * OHLCV data stored with SQLite
 * Data retrieved from exchange with [python-binance](https://github.com/sammchardy/python-binance)
   Note: the binance folder in this repo contains custom bugfixes that may not be in the offical python-binance repo
+
+## Debugging
+Should not be debugged while running the GUI. 
+QT launches in another thread, so no breakpoint set will be hit in the core logic. 
