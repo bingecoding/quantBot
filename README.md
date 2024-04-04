@@ -13,4 +13,4 @@ Fully automated trading bot for binance.
   Pandas MultiIndex feature is indispensable for data analysis
 * OHLCV data stored with SQLite
 * Data retrieved from exchange with [python-binance](https://github.com/sammchardy/python-binance)
-  Note: the binance folder in this repo contains custom bugfixes that may not be in the offical python-binance repo.
+  Note: the binance folder in this repo contains custom bugfixes that may not be in the offical python-binance repo
