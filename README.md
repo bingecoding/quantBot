@@ -1,6 +1,5 @@
 # quantBot
 
-<br>
 Fully automated trading bot for binance.
 
 ## Insights 
@@ -9,13 +8,11 @@ Fully automated trading bot for binance.
 * Feature engineering is the key ingredient to generating alpha
 
 ## Tools  
-Machine learning models [scikit-learn](https://scikit-learn.org/stable/index.html) from used to make predictions.
-<br>
-Feature engineering with [pandas](https://pandas.pydata.org/docs/index.html).
-Pandas MultiIndex feature is indespensible for data analysis. 
-<br>
-OHLCV data stored in SQLite.
-<br>
-Data retrieved from exchange with [python-binance](https://github.com/sammchardy/python-binance).
-<br>
-Note: the binance folder in this repo contains custom bugfixes that may not be in the offical python-binance repo.
+* Machine learning models from [scikit-learn](https://scikit-learn.org/stable/index.html) used to make predictions.
+* Feature engineering with [pandas](https://pandas.pydata.org/docs/index.html).
+    <br>
+  Pandas MultiIndex feature is indespensible for data analysis.
+* OHLCV data stored in SQLite.
+* Data retrieved from exchange with [python-binance](https://github.com/sammchardy/python-binance).
+  <br>
+  Note: the binance folder in this repo contains custom bugfixes that may not be in the offical python-binance repo.
