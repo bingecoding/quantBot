@@ -1,0 +1,9 @@
+{
+    "api_keys":[
+        {"api_key":"if you have multiple keys paste them here", "api_secret":"paste corresponding secret here"}, 
+        {"api_key":"if you have multiple keys paste them here", "api_secret":"paste corresponding secret here"}
+    ],
+    "api_key":"if you only have one key paste it here",
+    "api_secret":"paste corresponding secret here",        
+    "symbol":"BTCUSDT"
+}
